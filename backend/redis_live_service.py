@@ -5,7 +5,7 @@ import redis
 import json
 import requests
 
-from backend.config import (
+from config import (
     REDIS_HOST,
     REDIS_PORT,
     REDIS_DB,

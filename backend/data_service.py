@@ -3,8 +3,8 @@ import logging
 import os
 from typing import List, Dict, Any, Optional
 
-from backend.config import SQLITE_DB_PATH
-from backend.redis_live_service import RedisLiveDataService
+from config import SQLITE_DB_PATH
+from redis_live_service import RedisLiveDataService
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)

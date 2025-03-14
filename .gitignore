@@ -1,1 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
 .env
+.fastf1_cache/
+f1_data.db
+*.sqlite
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+redis
+fastf1
+pandas
+numpy
+scikit-learn
+torch
+pydantic
+python-dotenv
+tqdm
+requests
